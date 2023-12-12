@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Shopify/sarama"
+	"github.com/IBM/sarama"
 	"github.com/tylertreat/bench"
 )
 
